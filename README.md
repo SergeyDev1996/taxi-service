@@ -3,7 +3,7 @@
 Django project for managing taxi service
 
 ## Check it out!
-The service on heroku - https://github.com/SergeyDev1996/taxi-service
+Service on heroku - https://the-taxi-service.herokuapp.com/
 
 
 ## Installing / Getting started
@@ -11,7 +11,7 @@ The service on heroku - https://github.com/SergeyDev1996/taxi-service
 Python 3 must be already installed
 
 ```shell
-git clone https://the-taxi-service.herokuapp.com/accounts/login/?next=/
+git clone https://github.com/SergeyDev1996/taxi-service.git
 cd taxi-service
 python -m venv venv
 venv/scripts/activate
