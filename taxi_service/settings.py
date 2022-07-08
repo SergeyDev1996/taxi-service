@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")#"django-insecure-8ovil3xu6=eaoqd#-#&ri
 # SECURITY WARNING: don"t run with debug turned on in production!
 DEBUG = True #os.environ.get("DJANGO_DEBUG", "") != "False"
 
-ALLOWED_HOSTS = ["127.0.0.1", "https://the-taxi-service.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "the-taxi-service.herokuapp.com"]
 
 
 INTERNAL_IPS = [
