@@ -3,7 +3,7 @@
 Django project for managing taxi service
 
 ## Check it out!
-
+The service on heroku - https://github.com/SergeyDev1996/taxi-service
 
 
 ## Installing / Getting started
