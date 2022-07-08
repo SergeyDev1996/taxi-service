@@ -11,7 +11,7 @@ The service on heroku - https://github.com/SergeyDev1996/taxi-service
 Python 3 must be already installed
 
 ```shell
-git clone https://github.com/SergeyDev1996/taxi-service.git
+git clone https://the-taxi-service.herokuapp.com/accounts/login/?next=/
 cd taxi-service
 python -m venv venv
 venv/scripts/activate
