@@ -9,7 +9,7 @@ from .models import Driver, Car, Manufacturer
 from taxi.form import DriverForm, DriverSearchForm
 
 
-@login_required
+@login_required()
 def index(request):
     """View function for the home page of the site."""
 
@@ -47,7 +47,7 @@ class CarDetailView(LoginRequiredMixin, generic.DetailView):
     model = Car
 
 
-class DriverListView(LoginRequiredMixin, generic.ListView):
+class DriverListView(generic.ListView):
     model = Driver
     paginate_by = 2
     queryset = Driver.objects.all()
