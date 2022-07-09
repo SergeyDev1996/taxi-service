@@ -3,10 +3,10 @@
 Django project for managing taxi service
 
 ## Check it out!
-Service on heroku - https://the-taxi-service.herokuapp.com/
-username:test_user3
-password:test_user_password!%@
+[service on heroku](https://taxi-service-1.herokuapp.com/)
 
+* username:test_user3
+* password:test_user_password!%@
 ## Installing / Getting started
 
 Python 3 must be already installed
@@ -25,6 +25,3 @@ python manage.py runserver  # start Django project
 * Authentification of the user, logging out
 * Adding/deleting entries to/from the database
 * Search by driver name
-* 
-
-## Demo
