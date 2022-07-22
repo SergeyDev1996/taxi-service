@@ -26,7 +26,8 @@ python manage.py runserver  # start Django project
 * Adding/deleting entries to/from the database
 * Search by driver name
 
-![The list of the cars](https://prnt.sc/QH9MhJqECD8e)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![The list of the cars](https://ibb.co/TrDsLWv)
+![Home page](https://ibb.co/sQw4DSP)
+![Drivers list](https://ibb.co/N1B45hr)
+![Manufacturers list](https://ibb.co/dkwBP7q)
 
