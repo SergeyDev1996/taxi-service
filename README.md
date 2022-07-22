@@ -27,4 +27,4 @@ python manage.py runserver  # start Django project
 * Search by driver name
 
 #DEMO
-!(https://prnt.sc/QH9MhJqECD8e)
+![The list of the cars](https://prnt.sc/QH9MhJqECD8e)
