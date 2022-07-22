@@ -26,8 +26,8 @@ python manage.py runserver  # start Django project
 * Adding/deleting entries to/from the database
 * Search by driver name
 
-![The list of the cars](https://ibb.co/TrDsLWv)
-![Home page](https://ibb.co/sQw4DSP)
-![Drivers list](https://ibb.co/N1B45hr)
+![The list of the cars](https://i.ibb.co/hCxSfY7/Screenshot-7.png)
+![Home page](https://i.ibb.co/QnNVqBc/Screenshot-8.png)
+![Drivers list](https://i.ibb.co/CJGrgd6/Screenshot-9.png)
 ![Manufacturers list](https://i.ibb.co/3S91pkq/Screenshot-10.png)
 
