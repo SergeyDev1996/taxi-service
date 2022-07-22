@@ -25,3 +25,6 @@ python manage.py runserver  # start Django project
 * Authentification of the user, logging out
 * Adding/deleting entries to/from the database
 * Search by driver name
+
+#DEMO
+!(https://prnt.sc/QH9MhJqECD8e)
