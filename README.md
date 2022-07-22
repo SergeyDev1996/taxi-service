@@ -29,5 +29,5 @@ python manage.py runserver  # start Django project
 ![The list of the cars](https://ibb.co/TrDsLWv)
 ![Home page](https://ibb.co/sQw4DSP)
 ![Drivers list](https://ibb.co/N1B45hr)
-![Manufacturers list](https://ibb.co/dkwBP7q)
+![Manufacturers list](https://i.ibb.co/3S91pkq/Screenshot-10.png)
 
